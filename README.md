@@ -1,4 +1,4 @@
-# ST-microelectronics
+# ST-microelectronics sensors breakout board design
 Output files of ST Microelectronics sensor breakout board and PCB design
 ST Microelectronics sensors designed using Altium Designer 20.
 
